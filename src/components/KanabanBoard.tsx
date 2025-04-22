@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import PlusIcons from "../icons/PlusIcons";
 import { Column, Id, Task } from "../types";
 import ColumnContainer from "./ColumnContainer";
